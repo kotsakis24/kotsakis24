@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kotsakis24
 - 👀 I’m interested in PHP. RoR, Laravel
-- 🌱 I’m currently learning RoR, Laravel
+- 🌱 I’m currently learning RoR, Laravel, React, React Native, LLM, Python
 - 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me ...
 
